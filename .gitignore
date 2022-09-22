@@ -27,6 +27,14 @@ yarn-error.log*
 
 
 # Python gitignore files
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+
+# Backup files # 
+*.bak 
 
 env/
-__pycache__/
