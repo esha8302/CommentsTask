@@ -78,3 +78,8 @@ code {
   margin-top: 20px;
   margin-left: 50px;
 }
+
+.link{
+  color: inherit;
+  text-decoration: inherit;
+}
